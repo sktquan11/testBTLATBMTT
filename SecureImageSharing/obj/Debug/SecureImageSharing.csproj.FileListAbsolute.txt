@@ -1,0 +1,10 @@
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\bin\Debug\SecureImageSharing.exe.config
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\bin\Debug\SecureImageSharing.exe
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\bin\Debug\SecureImageSharing.pdb
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\obj\Debug\SecureImageSharing.csproj.AssemblyReference.cache
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\obj\Debug\SecureImageSharing.Form1.resources
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\obj\Debug\SecureImageSharing.Properties.Resources.resources
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\obj\Debug\SecureImageSharing.csproj.GenerateResource.cache
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\obj\Debug\SecureImageSharing.csproj.CoreCompileInputs.cache
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\obj\Debug\SecureImageSharing.exe
+C:\Users\hamin\source\repos\SecureImageSharing\SecureImageSharing\obj\Debug\SecureImageSharing.pdb
